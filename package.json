@@ -1,0 +1,9 @@
+{
+  "name": "yahoo-tricoloring-array",
+  "version": "0.0.0",
+  "description": "YahooTricoloringArray",
+  "main": "app.js",
+  "author": {
+    "name": "Simon"
+  }
+}
